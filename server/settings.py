@@ -51,7 +51,9 @@ INSTALLED_APPS = [
     'query',
     'users',
     'org',
-    'tasks'
+    'tasks',
+    'rest_framework',
+    'drf_yasg'
 ]
 
 MIDDLEWARE = [
