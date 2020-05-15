@@ -67,3 +67,9 @@ Open two terminals and run  on second terminal
 
 
 
+<<<<<<< HEAD
+=======
+* **master** - This contains the code which has been released (production ready code).
+* **develop** - This contains the latest code. All the contributing PRs must be sent to this branch.
+
+>>>>>>> 044598ccd82cfed26838d16ad970152bfd27fa01
